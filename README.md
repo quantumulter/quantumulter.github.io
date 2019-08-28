@@ -14,3 +14,11 @@ quantumult for android
 
 
 [Release](https://github.com/quantumulter/quantumulter.github.io/releases)
+
+
+
+## 图
+
+![图](https://github.com/quantumulter/quantumulter.github.io/blob/master/photo_2019-08-28_15-29-03.jpg?raw=true "图")  
+
+![图](https://github.com/quantumulter/quantumulter.github.io/blob/master/photo_2019-08-28_15-31-21.jpg?raw=true "图")
